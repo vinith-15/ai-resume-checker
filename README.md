@@ -40,4 +40,4 @@ cd ai-resume-analyzer
 
 
 ## 👤 Author
-Your Name — [GitHub](https://github.com/vinith-15/)
+Vinith K — [GitHub](https://github.com/vinith-15/)
